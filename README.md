@@ -31,3 +31,9 @@ Dependencies:
 - share_plus: ^12.0.1
 
 - path_provider: ^2.1.5
+
+## Screenshoots
+<!-- ![HomePage](./images/callanalisys_homepage.jpg) -->
+<img src="./images/callanalisys_homepage.jpg" width="30%">
+<img src="./images/callanalisys_permissions.jpg" width="30%">
+<img src="./images/callanalisys_share.jpg" width="30%">
